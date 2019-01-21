@@ -27,6 +27,7 @@ h1 {
 h2{
     margin:0; /* 0 = 0 0 0 0 */
     text-decoration: underline;
+    color: #00F300;
 }
 
 a {
