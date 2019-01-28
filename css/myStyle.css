@@ -61,3 +61,11 @@ p{
 #navigation a {
     color: #ABEBC6;
 }
+#box1   {clear:left;
+	float:left;
+	backgrond-color:00F700;
+	margin: 2% 2% 2% 0;
+	padding: 2%;
+	width: 60%
+	}
+	
